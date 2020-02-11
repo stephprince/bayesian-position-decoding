@@ -7,4 +7,4 @@ The main script you will use is the `script-bayesian-population-decoding.m` file
   3. Get the testing data (spike rate across temporal bins) using the other subsection of the data (the testing set, can be defined in multiple ways)
   4. Decode position during theta and plot the estimated vs. actual position and decoding error. There is also code to decode replay sequences during sharp-wave ripple events that can be added in the future.
 
-NOTE - this is a first pass analysis, and further refinement is likely needed
+NOTE - this is a first pass analysis and further refinement is likely needed
